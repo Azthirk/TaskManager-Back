@@ -43,7 +43,7 @@ The main endpoints available are:
 - `GET api/tasks/:id`: Gets an existing task.
 - `PUT api/tasks/:id`: Updates an existing task.
 - `DELETE api/tasks/:id`: Deletes a task.
-- `SWAGGER /api-docs`: Swagger endpoints.
+- `GET /api-docs`: Swagger endpoints.
 
 ## Technologies Used
 - **Node.js**: Runtime environment for JavaScript in the backend.
