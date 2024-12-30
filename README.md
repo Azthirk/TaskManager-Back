@@ -60,7 +60,7 @@ In the `package.json` file, you will find several scripts that you can run:
 
 ## Folder Structure
 - `src/`: Contains all the source code for the project.
--   `controllers/`: Logic for handling requests.
--   `models/`: Definitions of schemas and data models.
--   `routes/`: Definition of routes and endpoints.
--   `swagger/`: Swagger.
+-   `src/controllers/`: Logic for handling requests.
+-   `src/models/`: Definitions of schemas and data models.
+-   `src/routes/`: Definition of routes and endpoints.
+-   `src/swagger/`: Swagger.
