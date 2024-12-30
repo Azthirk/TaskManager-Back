@@ -26,12 +26,13 @@ $ npm install
 Create a `.env` file in the root directory of the project. Make sure to include the following variables:
 ```
 PORT=27017
-DATABASE_URL=<DATABASE_URL>
+MONGO_URI=<DATABASE_URL>
 ```
 
 ### 4. Run the API
 Start the server with the following command:
 ```bash
+$ mongod
 $ npx tsc && node dist/server.js
 ```
 This will start the API at [http://localhost:27017](http://localhost:27017).
