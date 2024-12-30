@@ -3,7 +3,7 @@
 This project is the backend for a task management application that provides endpoints for creating, editing, deleting, and querying tasks.
 
 ## Link to the Deployed Application
-You can access the deployed API at the following link: -
+You can access the deployed API at the following link: [TaskManager API](https://taskmanager-back-4rrw.onrender.com/api-docs/)
 
 ## Local Installation and Execution
 
