@@ -25,7 +25,7 @@ $ npm install
 ### 3. Set Environment Variables
 Create a `.env` file in the root directory of the project. Make sure to include the following variables:
 ```
-PORT=27017
+PORT="27017"
 MONGO_URI=<DATABASE_URL>
 ```
 
