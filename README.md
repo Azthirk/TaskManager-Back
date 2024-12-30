@@ -38,11 +38,12 @@ This will start the API at [http://localhost:27017](http://localhost:27017).
 
 ## Main Endpoints
 The main endpoints available are:
-- `GET /tasks`: Gets a list of tasks.
-- `POST /tasks`: Creates a new task.
-- `GET /tasks/:id`: Gets an existing task.
-- `PUT /tasks/:id`: Updates an existing task.
-- `DELETE /tasks/:id`: Deletes a task.
+- `GET api/tasks`: Gets a list of tasks.
+- `POST api/tasks`: Creates a new task.
+- `GET api/tasks/:id`: Gets an existing task.
+- `PUT api/tasks/:id`: Updates an existing task.
+- `DELETE api/tasks/:id`: Deletes a task.
+- `SWAGGER /api-docs`: Swagger endpoints.
 
 ## Technologies Used
 - **Node.js**: Runtime environment for JavaScript in the backend.
