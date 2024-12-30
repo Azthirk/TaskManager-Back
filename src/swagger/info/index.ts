@@ -18,6 +18,7 @@
  *         completed:
  *           type: boolean
  *           description: Task completion status.
+ *           default: false
  *         createdAt:
  *           type: string
  *           format: date-time
@@ -51,6 +52,7 @@
  *               completed:
  *                 type: boolean
  *                 description: Task completion status.
+ *                 default: false
  *     responses:
  *       201:
  *         description: Task created successfully.
